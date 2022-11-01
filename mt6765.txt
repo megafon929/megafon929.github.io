@@ -1,9 +1,0 @@
-1) Install TWRP https://megafon929.github.io/twrp-autoinstaller
-2) Reboot to TWRP
-3) Wipe > Format Data > " yes " > Click on the check mark > Back
-4) Wipe > Advanced Wipe > select: Dalvik / ART Cache, System, Data, Internal Storage, Cache > Swipe to Wipe > Back
-5) Install > Select the firmware file (If you need GAPPS and Magisk, it is recommended to click the "Add ZIPs" button and select the necessary archives) > Swipe to confirm Flash
-6) Wipe > Format Data > " yes " > Click on the check mark > Back
-7) Restart smartphone
-The smartphone will reboot, and the download can last from 2 to 10 minutes. Wait!
-That's it! The smartphone is ready to work
